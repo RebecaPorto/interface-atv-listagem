@@ -7,7 +7,7 @@
 }
 
 .amazonCard {
-    background-color: #f2f6fd;
+    background-color: #efb7df;
     border: 1px solid #464646;
     padding: 20px;
     border-radius: 8px;
@@ -35,22 +35,22 @@
     margin: 0 5px;
     border: none;
     border-radius: 4px;
-    background-color: #007bff;
+    background-color: #ea63b8;
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 .pagButton:hover {
-    background-color: #0056b3;
+    background-color: #ea63b8;
 }
 
 .pagButton.active {
-    background-color: #0056b3;
+    background-color: #ea63b8;
 }
 
 .pagButton:disabled {
-    background-color: #ccc;
+    background-color: #ffffff;
     cursor: not-allowed;
 }
 
@@ -97,22 +97,22 @@
     margin: 0 5px;
     border: none;
     border-radius: 4px;
-    background-color: #007bff;
+    background-color: #ea63b8;
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 .paginationButton:hover {
-    background-color: #0056b3;
+    background-color: #ea63b8;
 }
 
 .paginationButton.active {
-    background-color: #0056b3;
+    background-color: #ea63b8;
 }
 
 .paginationButton:disabled {
-    background-color: #ccc;
+    background-color: #ffb8b8;
     cursor: not-allowed;
 }
 
